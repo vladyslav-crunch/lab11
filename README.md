@@ -215,7 +215,6 @@ Wynik:
 
 Każdy kontener:
 
-* działa w trybie detached (`-d`),
 * korzysta z jednej wspólnej sieci (`lab11net`),
 * udostępnia port HTTP do przeglądarki lokalnej,
 * serwuje statyczną stronę HTML (readonly),
